@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.mainHeding{
+ background-color: deeppink;
+ color: white;
+ text-align: center;
+}
+legend{
+  font-size: 2rem;
+}
+.form{
+  display: inline-block;
+  padding: 30px;
+  background-color: rgb(221, 176, 146);
+  width: 500px;
+  
+}
+
+.formLabel{
+  display: inline-block;
+  width: 130px;
+}
+
+.formDiv{
+  margin: 20px;
+}
